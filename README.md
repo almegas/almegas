@@ -1,6 +1,8 @@
+
+### Hi, I'm Felipe Almeida</h1>  ![oi](https://komarev.com/ghpvc/?username=almegas&color=orange)
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=almegas&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-almegas.vercel.app/api/top-langs/?username=almegas&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=almegas&theme=dracula&mode=weekly" />
+<img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=almegas&show_icons=true&theme=dracula" />
  </div>
  
  &nbsp;
